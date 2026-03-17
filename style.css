@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    text-align: center;
+    font-family: Georgia; 
+    color:azure;
+    font-weight: bold;
+
+}
+
+h2{
+    text-align:center;
+    font-family:georgia;
+    color:azure;
+}
+img {
+    display: block;
+    margin:auto;
+    width: 300px;
+    border-color:azure;
+    border-radius: 10px;
+    
+    }
+
+
+p{
+    text-align: justify;
+    font-family: georgia;
+    color:azure;
+    font-size:20px;
+    margin-right: 100px;
+    margin-left: 100px;}
+
+.titulo{
+    font-size: 30px;
+    color:darkgrey
+}
